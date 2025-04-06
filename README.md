@@ -145,7 +145,7 @@
       <textarea placeholder="Pesan tambahan..."></textarea>
       <button type="submit">Kirim</button>
     </form>
-    <p>Email: info@chegeo.com | WA: 0895326299995</p>
+    <p>Email: info@chegeo.com | WA: 0895362699995</p>
   </section>
 
   <footer>
