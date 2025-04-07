@@ -1,6 +1,39 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
+  <meta charset="UTF-8">
+  <title>Gambar Samurai Misterius</title>
+  <style>
+    body {
+      background-color: #111;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .image-container {
+      border: 5px solid #444;
+      padding: 10px;
+      background-color: #222;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.2);
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="image-container">
+    <img src="enhanced-image (2) (1).png" alt="Samurai Misterius Duduk dengan Tongkat">
+  </div>
+</body>
+</html>
+
+<html lang="id">
+<head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>ChegEo – Explore. Learn. Create.</title>
